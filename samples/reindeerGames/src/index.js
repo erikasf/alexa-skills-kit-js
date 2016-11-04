@@ -21,61 +21,63 @@
  */
 var questions = [
     {
-        "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-            "13,000",
-            "1,200",
-            "5,000",
-            "700",
-            "1,000",
-            "120,000"
+        "What is the antidote for a Heparin overdose?": [
+            "vitamin k",
+            "ferrous sulfate",
+            "dark green leafy vegetables",
+            "protamine sulfate",
+            "kaoexelate",
+            "TPSA"
         ]
     },
     {
-        "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in:": [
-            "Japan",
-            "United States",
-            "Finland",
-            "Germany"
+        "What is the antidote for a Coumadin/Warafin overdose :": [
+           "vitamin k",
+            "ferrous sulfate",
+            "dark green leafy vegetables",
+            "protamine sulfate",
+            "kaoexelate",
+            "TPSA"
         ]
     },
     {
-        "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-            "Wunorse Openslae",
-            "Alabaster Snowball",
-            "Bushy Evergreen",
-            "Pepper Minstix"
+        "The stages of infection in correct sequential order are": [
+           " The prodromal, incubation, illness and convalescence stages",
+           "The incubation, prodromal, illness and convalescence stages",
+           "The prodromal, primary, secondary and tertiary stages",
+           "The inflammation, infection and immunity stages"
         ]
     },
     {
-        "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be:": [
-            "Girls",
-            "Boys",
-            "Girls and boys",
-            "No way to tell"
+        "Periwound maceration occurs when:": [
+            "The skin around the wound softens and is damaged.",
+             "Selecting a dressing individualized to the type of wound.",
+             "Negative-pressure to 'air out' the wound is used.",
+             "The skin around the wound dries out and hardens."
         ]
     },
     {
-        "What do Reindeer eat?": [
-            "Lichen",
-            "Grasses",
-            "Leaves",
-            "Berries"
+        "Which electrolyte is essential for enzyme and neurochemical activities?": [
+           "Chloride",
+           "Magnesium",
+           "Potassium",
+           "Phosphate"
         ]
     },
     {
-        "What of the following is not true?": [
-            "Caribou live on all continents",
-            "Both reindeer and Caribou are the same species",
-            "Caribou are bigger than reindeer",
-            "Reindeer live in Scandinavia and Russia"
+        "You are preparing a sterile field for a operating room surgical procedure. When should you stop the preparation of this sterile field?": [
+         "When you have placed a sterile item only 1 inch and not 2 inches from the edge of the sterile field",
+         "When you have completely finished the field. You cannot stop the set up until it is all done.",
+         "When you have accidentally poured a sterile liquid into a container that was on the sterile field",
+         "When you turn your upper body only away from the field because the surgeon calls your name"
         ]
     },
     {
-        "In what year did Rudolph make his television debut?": [
-            "1964",
-            "1979",
-            "2000",
-            "1956"
+        " Which of the following is the best worded expected outcome?": [
+           "The nurse will provide for adequate hydration”,
+           "The nurse will insure that the patient is safe”,
+           "The patient will cough and deep breathe every two hours”,
+           "The patient will value health”
         ]
     },
     {
